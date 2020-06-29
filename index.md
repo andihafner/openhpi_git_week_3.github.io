@@ -9,3 +9,5 @@ Er ist der Schiffsroboter des Sternschiffs Herz aus Gold. Urspruenglich gebaut a
 
 ## Zitat
 > Die beste Unterhaltung, die ich je hatte, liegt 40 Millionen Jahre zurueck. Ich sprach mit einer Kaffeemaschine.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Marvin-TV-3.jpg/240px-Marvin-TV-3.jpg"/>
