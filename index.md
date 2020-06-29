@@ -6,3 +6,6 @@ Er ist der Schiffsroboter des Sternschiffs Herz aus Gold. Urspruenglich gebaut a
 * Depressiv
 * Gelangweilt
 * Hat ein Hirn von der Groessse eines Planeten
+
+## Zitat
+> Die beste Unterhaltung, die ich je hatte, liegt 40 Millionen Jahre zurueck. Ich sprach mit einer Kaffeemaschine.
